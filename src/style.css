@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text-center{
+    text-align: center;
+}
+.mb-5{
+    margin-bottom: 15px;
+}
+
+.navbar{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.navbar a, .footer a{
+    display: inline-block;
+    color: tomato;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.about{
+    text-align: center;
+}
+.about img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.footer{
+    margin-top: 10px;
+    text-align: center;
+    background-color: azure;
+    padding: 10px;
+}
